@@ -41,3 +41,7 @@ function executar() {
         }
     })
 }
+
+function adicionar () {
+    
+}
